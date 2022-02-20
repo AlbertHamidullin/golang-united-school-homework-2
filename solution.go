@@ -4,7 +4,7 @@ import (
 	"math"
 )
 
-type SidesNum int
+type SidesNum uint8
 
 const (
 	SidesCircle   SidesNum = 0
